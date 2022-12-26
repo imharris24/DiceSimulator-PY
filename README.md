@@ -4,15 +4,15 @@
 
 
 <div align="center">
-    <img src="https://img.shields.io/github/languages/count/imharris24/DiceSimulator-PY?label=Languages&style=for-the-badge">
-    <img src="https://img.shields.io/github/languages/top/imharris24/DiceSimulator-PY?style=for-the-badge">
-    <img src="https://img.shields.io/github/repo-size/imharris24/DiceSimulator-PY?style=for-the-badge">
-    <img src="https://img.shields.io/github/issues/imharris24/DiceSimulator-PY?style=for-the-badge">
-    <img src="https://img.shields.io/github/issues-pr-closed/imharris24/DiceSimulator-PY?style=for-the-badge">
-    <img src="https://img.shields.io/github/license/imharris24/DiceSimulator-PY?style=for-the-badge">
-    <img src="https://img.shields.io/github/forks/imharris24/DiceSimulator-PY?style=for-the-badge">
-    <img src="https://img.shields.io/github/stars/imharris24/DiceSimulator-PY?style=for-the-badge">
-    <img src="https://img.shields.io/github/last-commit/imharris24/DiceSimulator-PY?style=for-the-badge">
+    <img src="https://img.shields.io/github/languages/count/imharris24/Dice-Simulator-PY?label=Languages&style=for-the-badge">
+    <img src="https://img.shields.io/github/languages/top/imharris24/Dice-Simulator-PY?style=for-the-badge">
+    <img src="https://img.shields.io/github/repo-size/imharris24/Dice-Simulator-PY?style=for-the-badge">
+    <img src="https://img.shields.io/github/issues/imharris24/Dice-Simulator-PY?style=for-the-badge">
+    <img src="https://img.shields.io/github/issues-pr-closed/imharris24/Dice-Simulator-PY?style=for-the-badge">
+    <img src="https://img.shields.io/github/license/imharris24/Dice-Simulator-PY?style=for-the-badge">
+    <img src="https://img.shields.io/github/forks/imharris24/Dice-Simulator-PY?style=for-the-badge">
+    <img src="https://img.shields.io/github/stars/imharris24/Dice-Simulator-PY?style=for-the-badge">
+    <img src="https://img.shields.io/github/last-commit/imharris24/Dice-Simulator-PY?style=for-the-badge">
 </div>
 
 
@@ -21,14 +21,14 @@
   <p align="center">
     Simple dice simulator created using very basics of Python!
     <br />
-    <a href="https://github.com/imharris24/DiceSimulator-PY"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/imharris24/Dice-Simulator-PY"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/imharris24/DiceSimulator-PY/tree/main/src">View Demo</a>
+    <a href="https://github.com/imharris24/Dice-Simulator-PY/tree/main/src">View Demo</a>
     ·
-    <a href="https://github.com/imharris24/DiceSimulator-PY/issues">Report Bug</a>
+    <a href="https://github.com/imharris24/Dice-Simulator-PY/issues">Report Bug</a>
     ·
-    <a href="https://github.com/imharris24/DiceSimulator-PY/issues">Request Feature</a>
+    <a href="https://github.com/imharris24/Dice-Simulator-PY/issues">Request Feature</a>
   </p>
 </div>
 
@@ -40,7 +40,7 @@ A Dice rolling simulator is nothing but a computer model that can be created by 
 <br>
 
 <div align="center">
-  <img width=auto height=auto src="https://github.com/imharris24/DiceSimulator-PY/blob/main/screenshot/screenshot1.png">
+  <img width=auto height=auto src="https://github.com/imharris24/Dice-Simulator-PY/blob/main/screenshot/screenshot1.png">
 </div>
 
 <br>
@@ -84,7 +84,7 @@ $ ./main.py
 - [x] Implement Generation
 - [ ] provide UI
 
-See the [open issues](https://github.com/imharris24/DiceSimulator-PY/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/imharris24/Dice-Simulator-PY/issues) for a full list of proposed features (and known issues).
 
 
 ## Contributing
@@ -110,4 +110,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 MUHAMMAD HARRIS - [@im_harrisg](https://instagram.com/im_harrisg) - harris20014@gmail.com
 
-Project Link: [QR Code Generator](https://github.com/imharris24/DiceSimulator-PY)
+Project Link: [QR Code Generator](https://github.com/imharris24/Dice-Simulator-PY)
